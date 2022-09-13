@@ -8,12 +8,21 @@ Scrape Full-Resolution Mars Hemisphere Images and Titles; Update the Web App wit
 2. Download the Mission_to_Mars_Challenge_starter_code.ipynb, copy the starter code, and paste at the end of your Mission_to_Mars_Challenge.ipynb file.
 
 3. In Step 1, use your browser to visit the Mars Hemispheres (Links to an external site.) website to view the hemisphere images.
+![1-0](https://user-images.githubusercontent.com/107659667/189799235-5bae0e90-dc6c-495f-9eeb-e87b11b5c400.jpg)
+![1-0-1](https://user-images.githubusercontent.com/107659667/189799243-8e5ff0ab-7b6b-49cd-9881-28e21bd6681a.jpg)
+![1-0-2](https://user-images.githubusercontent.com/107659667/189799249-d242decc-5c67-4f19-8db1-043a1f05e131.jpg)
+![1-0-3](https://user-images.githubusercontent.com/107659667/189799261-a68a1032-523e-4848-9fad-8497356b8236.jpg)
+![1-0-4](https://user-images.githubusercontent.com/107659667/189799274-c280f5fb-4179-4157-9179-60c6583d2674.jpg)
 
 4. Use the DevTools to inspect the page for the proper elements to scrape. You will need to retrieve the full-resolution image for each of Mars's hemispheres.
+![1-1](https://user-images.githubusercontent.com/107659667/189799279-086b6a5a-9d67-4507-9425-039cee310056.jpg)
 
 5. In Step 2, create a list to hold the .jpg image URL string and title for each hemisphere image.
+![1-2 3](https://user-images.githubusercontent.com/107659667/189799284-2cb20b1c-e120-4df1-a763-0c9b7f1719b4.jpg)
 
 6. In Step 3, write code to retrieve the full-resolution image URL and title for each hemisphere image. The full-resolution image will have the .jpg extension.
+![1-4](https://user-images.githubusercontent.com/107659667/189799301-6109223d-1950-4d18-9e16-ca1c2efd0607.jpg)
+![1-5](https://user-images.githubusercontent.com/107659667/189799308-2c76148d-e29e-49ce-8b89-fa3fb5630946.jpg)
 
 7. Loop through the full-resolution image URL, click the link, find the Sample image anchor tag, and get the href.
 
