@@ -45,6 +45,12 @@ Using your Python and HTML skills, you’ll add the code you created in Delivera
 1. Export the Mission_to_Mars_Challenge.ipynb file as a Python file, and save it as Mission_to_Mars_Challenge.py.
 
 2. In the def scrape_all() function in your scraping.py file, create a new dictionary in the data dictionary to hold a list of dictionaries with the URL string and title of each hemisphere image.
+![2-2-1](https://user-images.githubusercontent.com/107659667/189802838-c79c6960-1c7a-4a01-848a-c950c344790a.jpg)
+![2-2-2](https://user-images.githubusercontent.com/107659667/189802844-f79650f5-6aac-4abc-a472-eefb56f39f22.jpg)
+![2-2-3](https://user-images.githubusercontent.com/107659667/189802849-5473c5c9-0f03-4d17-83dc-dd66add53042.jpg)
+![2-2-4](https://user-images.githubusercontent.com/107659667/189802883-b68ec8db-3047-44dd-94c6-392b2b58146a.jpg)
+![2-2-5](https://user-images.githubusercontent.com/107659667/189802889-773e7635-6583-49c8-894b-3a069fa132ca.jpg)
+![2-2-6](https://user-images.githubusercontent.com/107659667/189802896-3ed87216-d6d4-479a-988d-2ffccad4cfaf.jpg)
 
 3. Below the def mars_facts() function in the scraping.pyfile, create a function that will scrape the hemisphere data by using your code from the Mission_to_Mars_Challenge.py file. At the end of the function, return the scraped data as a list of dictionaries with the URL string and title of each hemisphere image.
 
