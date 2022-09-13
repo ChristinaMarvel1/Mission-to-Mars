@@ -21,8 +21,8 @@ Scrape Full-Resolution Mars Hemisphere Images and Titles; Update the Web App wit
 ![1-2 3](https://user-images.githubusercontent.com/107659667/189799284-2cb20b1c-e120-4df1-a763-0c9b7f1719b4.jpg)
 
 6. In Step 3, write code to retrieve the full-resolution image URL and title for each hemisphere image. The full-resolution image will have the .jpg extension.
-![1-4](https://user-images.githubusercontent.com/107659667/189799301-6109223d-1950-4d18-9e16-ca1c2efd0607.jpg)
-![1-5](https://user-images.githubusercontent.com/107659667/189799308-2c76148d-e29e-49ce-8b89-fa3fb5630946.jpg)
+
+![1-2 3](https://user-images.githubusercontent.com/107659667/189799909-87e5d672-ec33-4b99-8fe1-56eca71da3ce.jpg)
 
 7. Loop through the full-resolution image URL, click the link, find the Sample image anchor tag, and get the href.
 
@@ -33,8 +33,10 @@ Scrape Full-Resolution Mars Hemisphere Images and Titles; Update the Web App wit
 10. Before getting the next image URL and title, add the dictionary with the image URL string and the hemisphere image title to the list you created in Step 2.
 
 11. In Step 4, print the list of dictionary items. Your list should look like the following image:
+![1-4](https://user-images.githubusercontent.com/107659667/189799848-fd3a9ec0-45f6-4737-b1de-8cc0b6953c1b.jpg)
 
 12. After you have confirmed that you have the image URLs and titles for all four hemisphere images, quit the browser by executing Step 5.
+![1-5](https://user-images.githubusercontent.com/107659667/189799884-f10abb40-7bd8-416c-b89a-5c598f2a9166.jpg)
 
 ## Deliverable 2: Update the Web App with Mars’s Hemisphere Images and Titles (40 points)
 
